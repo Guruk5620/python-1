@@ -1,4 +1,7 @@
 print("Welcome to logo name genetaror!!!!")
+
 name=input("Enter your nike name\n")
+
 color=input("Enter your favorite color\n")
+
 print("Your logo name is "+ color + " " + name + "!!!")
